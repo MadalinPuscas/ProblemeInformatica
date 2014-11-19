@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1414599226 source:h:\documente\projects\madalin\bin packing\main.cpp
+	<iostream>
+	<fstream>
+

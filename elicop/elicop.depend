@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1416412726 source:h:\documente\projects\madalin\elicop\main.cpp
+	<iostream>
+	<fstream>
+
